@@ -1,0 +1,14 @@
+.madlibs {
+	text-align: center;
+	color: white;
+	margin-top: 75px;
+	margin-bottom: 75px;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 48px;
+}
+
+body{
+	background-color: teal;
+}
